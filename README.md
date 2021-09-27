@@ -2,6 +2,7 @@
 
 ## Demo
 
+[https://chord-files.herokuapp.com/](https://chord-files.herokuapp.com/)
 
 ## Description
 This project is a chord progression generator that I wanted to do for a while to aid me in composing melodies more seamlessly. It started as a simple Python script but during my music theory research I found out that [Chord_Files](https://www.chordfiles.com/) was a thing. Not wanting to spend money on it gave me the challenge to reverse engineering it, resulting in a fully digital version of it, as functionally and estetically close to the original as possible.
@@ -12,7 +13,7 @@ I decided to translate the Python script (that generated the Major Triad, Second
 
 Just as the original creators intended it: 
 
-[!Find unique chord progressions and melodies with chord_files. 🎸](http://www.youtube.com/watch?v=WhkV-YRiR8k&ab)
+[Find unique chord progressions and melodies with chord_files. 🎸](http://www.youtube.com/watch?v=WhkV-YRiR8k&ab)
 
 Slide the left bar up and down to change the root note, the right bar is just for estetic purposes.
 
