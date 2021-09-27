@@ -11,7 +11,7 @@ I decided to translate the Python script (that generated the Major Triad, Second
 ## How to use it
 
 Just as the original creators intended it: 
-[![Find unique chord progressions and melodies with chord_files. 🎸](http://img.youtube.com/vi/WhkV-YRiR8k&ab_channel=chordfiles/0.jpg)](http://www.youtube.com/watch?v=WhkV-YRiR8k&ab_channel=chordfiles)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=WhkV-YRiR8k&ab_channel=chordfiles" target="_blank"><img src="http://img.youtube.com/vi/WhkV-YRiR8k&ab_channel=chordfiles/0.jpg" width="240" height="180" border="10" /></a>
 
 Slide the left bar up and down to change the root note, the right bar is just for estetic purposes.
 
