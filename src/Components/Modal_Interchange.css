@@ -1,0 +1,74 @@
+.border{
+
+    border: 2px solid #ceb296;
+    border-radius: 15px;
+
+}
+
+.tag {
+
+    position: absolute;
+    bottom: -20px;
+    right: 20px;
+    color: #ceb296;
+    font-family: blooming_elegant_sans;
+    font-size: x-large;
+    padding: 10px;
+    background-image: url(../Others/dark-tire.png);
+    background-color: #494039;
+
+}
+
+.mixcontainer{
+
+    justify-self: stretch; 
+    align-self: initial;
+    grid-area: 1 / 2 / 2 / 3; 
+    width: 20%; 
+    color: #ceb296;
+    font-family: blooming_elegant_sans;
+    font-size: large;
+    background-image: url(../Others/dark-tire.png);
+    background-color: #494039;
+
+}
+
+.mixsection {
+
+    position: absolute;
+    padding: 15px;
+    bottom: 0px;
+    left: 66px;
+
+}
+
+.mixicon {
+
+    position: absolute;
+    background-image: url('../Others/mixmodal.svg');
+    height: 30px;
+    width: 26px;
+    bottom: 30px;
+    left: 80px;
+    display: block;
+
+}
+
+.modalgrid {
+
+    display: grid;
+    grid-auto-flow: column;
+    width: 75%;
+    height: 100%;
+    margin-right: 7%;
+    margin-left: auto;
+
+
+}
+
+#invisible {
+
+
+    visibility: hidden;
+
+}

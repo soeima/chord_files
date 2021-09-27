@@ -1,0 +1,140 @@
+.borderMain{
+
+    border: 2px solid #f9f1e4;
+    border-radius: 15px;
+
+}
+
+.chordstag {
+
+    position: absolute;
+    bottom: 90px;
+    right: 20px;
+    color: #f9f1e4;
+    font-family: blooming_elegant_sans;
+    font-size: x-large;
+    padding: 10px;
+    background-image: url(../Others/dark-tire.png);
+    background-color: #494039;
+
+}
+
+.mixcontainermain{
+
+    justify-self: stretch; 
+    align-self: initial;
+    grid-area: 1 / 2 / 2 / 3; 
+    width: 20%; 
+    color: #f9f1e4;
+    font-family: blooming_elegant_sans;
+    font-size: large;
+    background-image: url(../Others/dark-tire.png);
+    background-color: #494039;
+
+}
+
+.mixsectionmain {
+
+    position: absolute;
+    padding: 15px;
+    bottom: 110px;
+    left: 66px;
+
+}
+
+.mixiconmain {
+
+    position: absolute;
+    background-image: url('../Others/mixmain.svg');
+    height: 28px;
+    width: 26px;
+    bottom: 140px;
+    left: 80px;
+    display: block;
+
+}
+
+.chordsgrid {
+
+    display: grid;
+    grid-auto-flow: column;
+    width: 75%;
+    height: 100%;
+    margin-right: 7%;
+    margin-left: auto;
+
+}
+
+.note{
+
+    height: 40px;
+    width: 40px;
+    margin: auto;
+    padding-top: 3px;
+    align-self: center;
+    justify-content: center;
+    background-color: #29211c;
+    z-index: 10;
+    color: #ceb296;
+    font-family: fax_font;
+    text-align: center;
+    font-size: xx-large;
+    border-radius: 5px;
+    -moz-box-shadow: inset 3px 3px 3px black;
+    -webkit-box-shadow: inset 3px 3px 3px black;
+    box-shadow: inset 3px 3px 3px black;
+
+}
+
+.notation {
+
+    position: relative;
+    font-size: 20px;
+    bottom: 40px;
+    left: -34px;
+
+
+}
+
+#odd{
+
+    color: #f9f1e4;
+
+}
+
+.key {
+
+    position: relative;
+    font-size: 20px;
+    bottom: 33px;
+    left: 29px;
+
+}
+
+.biarrow {
+
+    position: relative;
+    background-image: url('../Others/biarrow.svg');
+    height: 40px;
+    width: 20px;
+    bottom: 46px;
+    left: 12px;
+    display: block;
+    z-index: 0;
+
+
+}
+
+.connection {
+
+    position: relative;
+    background-image: url('../Others/connection.svg');
+    height: 28px;
+    width: 24px;
+    bottom: 51px;
+    left: -2px;
+    display: block;
+    z-index: 0;
+
+}
+
